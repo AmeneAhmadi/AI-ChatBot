@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "51bd",
+      "username": "test",
+      "password": "123"
+    },
+    {
+      "id": "9a1d",
+      "username": "amene",
+      "password": "123"
+    }
+  ],
+  "chats": [
+    
+  ]
+}
